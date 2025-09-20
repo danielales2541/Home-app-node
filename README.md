@@ -15,6 +15,8 @@ Abre tu terminal en la carpeta raíz del proyecto y ejecuta el siguiente comando
 
  Creación de la Clave Privada y Configuración
 Para que el cliente de Open Payments pueda firmar las solicitudes, necesitas una clave privada. Esta clave nunca debe subirse a Git ni compartirse crealo desde tu wallet y colocalo en los archivos 
+
+
 2. Configurar las credenciales
 En tu archivo index.js, asegúrate de que la ruta del archivo y el keyId de la billetera sean correctos. La línea para leer la clave es la siguiente:
 
